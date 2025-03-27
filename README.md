@@ -27,6 +27,8 @@ python main.py sample.mp4 --model multimodal_expert --corpus mixed-corpus --outp
 
 The script generates the following structured output in the results/ directory:
 
+
+
 results/
   ├── <file_name>/
   │   ├── Data/
